@@ -1,0 +1,42 @@
+.idea/workspace.xml
+.idea/vcs.xml
+.DS_Store
+# IntelliJ
+/out/
+
+.idea_modules/
+
+__pycache__/
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+
+htmlcov/
+.tox/
+
+.hypothesis/
+
+instance/
+
+docs/_build/
+
+# PyBuilder
+target/
+
+
+# virtualenv
+venv/
+ENV/
+
+
+
